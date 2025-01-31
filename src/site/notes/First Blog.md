@@ -3,6 +3,7 @@
 ---
 
 
-# First Blog
+# Hello World
 
-This is my first blog, i can't belive this is writted in Markdown
+Hola Mundo!, bienvenido a este espacio, mi nombre es Percy, aquí busco subir contenido
+que me resulte interesante, cosas como IA, Robótica, y herramientas del entorno GNU/Linux.

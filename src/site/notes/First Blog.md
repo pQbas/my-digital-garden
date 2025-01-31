@@ -14,12 +14,12 @@ Esto es muy conveniente porque yo edito mis archivos `markdown` en mi terminal, 
 
 Entonces, tengo todas las ventajas de escribir un blog web, sin tener que pensar mucho en la infraestructura, o el código, y además con todas las ventajas de customización, ya que `Digital-Garden` es un proyecto público.
 
-Bueno, otra de las razones por las que he querido usar este grandioso proyecto, es porque soporta `markdown`, y yo localmente soy capaz de por ejemplo, escribir ecuaciones en `Latex`, directamente en Obsidian, y observar como se dibuja una ecuación muy bien formateada. El objetivo de este blog es compartir un poco de esas ecuaciones:
+Bueno, otra de las razones por las que he querido usar este grandioso proyecto, es porque soporta `markdown`, y yo localmente soy capaz de por ejemplo, escribir ecuaciones en `Latex`, directamente en Obsidian, y observar como se dibuja una ecuación muy bien formateada. El objetivo de este blog es compartir un poco de esas ecuaciones, ahí va una:
 
 $$
 \frac{1}{2} + \int{x} dx + e^{j \omega x}
 $$
 
-
+Finalmente quiero hacer un poco de propaganda sobre lo que hago y que cosas sé, tambien, pasa bastante bien como portafolio, así que funciona para todo, y lo mejor de todo, es que sin tirar nada de html, js o css. Conozco estas herramientas, pero honestamente, no tengo mucho tiempo/ganas como para escribir todo un portafolio desde cero, creo que en su lugar me debo enfocar en mejorar mis habilidades actuales.
 
 

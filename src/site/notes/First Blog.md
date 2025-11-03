@@ -23,3 +23,6 @@ $$
 Finalmente quiero hacer un poco de propaganda sobre lo que hago y que cosas sé, tambien, pasa bastante bien como portafolio, así que funciona para todo, y lo mejor de todo, es que sin tirar nada de html, js o css. Conozco estas herramientas, pero honestamente, no tengo mucho tiempo/ganas como para escribir todo un portafolio desde cero, creo que en su lugar me debo enfocar en mejorar mis habilidades actuales.
 
 
+## Something to read
+
+https://thoughtbot.com/blog/seamlessly-navigate-vim-and-tmux-splits
